@@ -1,5 +1,6 @@
-OWNERDOMAIN=https://kidanh.github.io
+OWNERDOMAIN=https://ozankara1984.github.io
 google.com, pub-4275485200438587, DIRECT, f08c47fec0942fa0
+facebook.com, 1353293322958535, DIRECT, c3e20eee3f780d68
 unityads.unity3d.com, 3190263, DIRECT, 4b1f54ff8d336d21
 unityads.unity3d.com, 18967042236906, DIRECT, 4b1f54ff8d336d21
 applovin.com, 1745822154, DIRECT, 5a864cdf0b2982b7
