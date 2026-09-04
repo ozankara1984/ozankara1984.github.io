@@ -108,7 +108,7 @@ indexexchange.com, 216408, RESELLER, 50b1c356f2c5c8fc
 
 # ============================================================================
 # UNITY ADS
-# Records: 79
+# Records: 95
 # ============================================================================
 insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
 loopme.com, 20775, RESELLER, 6c8d5f95897a5a3b
@@ -191,6 +191,23 @@ triplelift.com, 14823, RESELLER, 6c33edb13117fd86
 bluexad.ai, 1996418805747683328, RESELLER
 
 # ============================================================================
+pubnative.net, 1009458, RESELLER, d641df8625486a7b
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+thunder-monetize.com, 2158729563, RESELLER
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+media.net, 8CAXEGFDP, RESELLER
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+xandr.com, 7353, RESELLER
+pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
+bigo.sg, adidz3dyfp, RESELLER
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+
 # IRONSOURCE / ISX
 # Records: 125
 # Source: ironSource seller list supplied by the publisher.
